@@ -1,0 +1,6 @@
+arb-dir: asset/l10n
+template-arb-file: en.arb
+output-localization-file: application_localization.dart
+output-class: ApplicationLocalization
+nullable-getter: false
+untranslated-messages-file: asset/l10n/untranslated.txt
